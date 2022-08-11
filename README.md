@@ -1,7 +1,7 @@
 # gn-hud
 FiveM HUD by Nightt#8899 & zGqnis#7878
 
-- | Discord: https://dsc.gg/neonscripts
+- | Discord: https://discord.gg/Jaareet
 - | Preview: 
 
 ![image](https://user-images.githubusercontent.com/89995463/172042109-057df06e-f7a5-470b-8162-363c6297e36a.png)
